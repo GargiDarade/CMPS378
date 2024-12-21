@@ -1,0 +1,127 @@
+Microsoft Windows [Version 10.0.22631.4317]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Gargi\CMPS378\Assignment2\OOPsBmiCalculator\bin\Debug>BmiCalculator.exe
+
+---------------BMI Calculator----------------
+| Category             | BMI Range(kg / m2) |
+---------------------------------------------
+| Severe Thinness      | < 16               |
+---------------------------------------------
+| Moderate Thinness    | 16 - 17            |
+---------------------------------------------
+| Mild Thinness        | 17 - 18.5          |
+---------------------------------------------
+| Normal               | 18.5 - 25          |
+---------------------------------------------
+| Overweight           | 25 - 30            |
+---------------------------------------------
+| Obese Class I        | 30 - 35            |
+---------------------------------------------
+| Obese Class II       | 35 - 40            |
+---------------------------------------------
+| Obese Class III      | > 40               |
+---------------------------------------------
+      Welcome to BMI Calculator!
+
+Please enter your name: Gargi
+
+Please enter your age: 19
+
+Please enter your Gender: female
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 6
+
+Please enter your weight in pounds: 99.2
+
+Hi Gargi,You are a female.
+You are 19 years old. You are currently 5 feet, 6 inches and you currently weight 99.2 pounds.
+Your BMI is 16.01, which is Moderate Thinness.
+Thank you for using the BMI Calculator!
+
+Press any key to close the Calculator console app...
+
+C:\Gargi\CMPS378\Assignment2\OOPsBmiCalculator\bin\Debug>BmiCalculator.exe
+
+---------------BMI Calculator----------------
+| Category             | BMI Range(kg / m2) |
+---------------------------------------------
+| Severe Thinness      | < 16               |
+---------------------------------------------
+| Moderate Thinness    | 16 - 17            |
+---------------------------------------------
+| Mild Thinness        | 17 - 18.5          |
+---------------------------------------------
+| Normal               | 18.5 - 25          |
+---------------------------------------------
+| Overweight           | 25 - 30            |
+---------------------------------------------
+| Obese Class I        | 30 - 35            |
+---------------------------------------------
+| Obese Class II       | 35 - 40            |
+---------------------------------------------
+| Obese Class III      | > 40               |
+---------------------------------------------
+      Welcome to BMI Calculator!
+
+Please enter your name: Harish
+
+Please enter your age: 45
+
+Please enter your Gender: male
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 6
+
+Please enter your weight in pounds: 242.4
+
+Hi Harish,You are a male.
+You are 45 years old. You are currently 5 feet, 6 inches and you currently weight 242.4 pounds.
+Your BMI is 39.12, which is Obese Class II.
+Thank you for using the BMI Calculator!
+
+Press any key to close the Calculator console app...
+C:\Gargi\CMPS378\Assignment2\OOPsBmiCalculator\bin\Debug>BmiCalculator.exe
+
+---------------BMI Calculator----------------
+| Category             | BMI Range(kg / m2) |
+---------------------------------------------
+| Severe Thinness      | < 16               |
+---------------------------------------------
+| Moderate Thinness    | 16 - 17            |
+---------------------------------------------
+| Mild Thinness        | 17 - 18.5          |
+---------------------------------------------
+| Normal               | 18.5 - 25          |
+---------------------------------------------
+| Overweight           | 25 - 30            |
+---------------------------------------------
+| Obese Class I        | 30 - 35            |
+---------------------------------------------
+| Obese Class II       | 35 - 40            |
+---------------------------------------------
+| Obese Class III      | > 40               |
+---------------------------------------------
+      Welcome to BMI Calculator!
+
+Please enter your name: Sunil
+
+Please enter your age: 54
+
+Please enter your Gender: male
+
+Please enter your height in feet: 5
+
+Please enter your height in inches: 6
+
+Please enter your weight in pounds: 133
+
+Hi Sunil,You are a male.
+You are 54 years old. You are currently 5 feet, 6 inches and you currently weight 133 pounds.
+Your BMI is 21.46, which is Normal.
+Thank you for using the BMI Calculator!
+
+Press any key to close the Calculator console app...
