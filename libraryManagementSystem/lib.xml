@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <Title>C++ Programming Program Design Including Data Structures</Title>
+    <Author>D.S. Malik</Author>
+    <Copies>5</Copies>
+    <CheckoutNameList>
+      <string />
+      <string>Aditi</string>
+      <string>Sunil</string>
+      <string>Asha</string>
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Man's Search For Meaning</Title>
+    <Author>Victor E. Frankl</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Think And Grow Rich</Title>
+    <Author>Napoleon Hill</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Who Moved My Cheese</Title>
+    <Author>Dr Spencer Johnson</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Rich Dad Poor Dad</Title>
+    <Author>Robert Kiyosaki</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string>Asha</string>
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>The 7 Habits Of Highly Effective People</Title>
+    <Author>Stephen Covey</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string>Suman</string>
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>How to stop worrying and start living</Title>
+    <Author>Dale Carnegie</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Monk Who Sold His Ferrarie</Title>
+    <Author>Robin Sharma</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Ikigai</Title>
+    <Author>Francesc Miralles</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Story book:</Title>
+    <Author>Dipavali Sen</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The 8th Habit</Title>
+    <Author>Stephen Covey</Author>
+    <Copies>2</Copies>
+    <CheckoutNameList>
+      <string>Sunil</string>
+      <string>Aditi</string>
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Sorcerer's Stone</Title>
+    <Author>Rowling J K</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string>Sunil</string>
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Chamber of Secrets</Title>
+    <Author> Rowling J. K.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Cursed Child - Parts One and Two</Title>
+    <Author>Rowling J.K.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>Harry Potter and the Prisoner of Azkaban</Title>
+    <Author>Rowling J. K.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Return of the King</Title>
+    <Author>Tolkien J. R. R.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Two Towers</Title>
+    <Author> Tolkien J. R. R.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Lord of the Rings</Title>
+    <Author>Tolkien J R R</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Hobbit</Title>
+    <Author>Tolkien J. R. R.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The History of the Hobbit</Title>
+    <Author>Tolkien J. R. R.</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Hobbit and Philosophy</Title>
+    <Author>Bassham Gregory</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>The Hobbit Encyclopedia</Title>
+    <Author>Bador Damien</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList />
+  </Book>
+  <Book>
+    <Title>21 Shades of Night</Title>
+    <Author>Sarah Mäkelä</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Twenty Times Tempted</Title>
+    <Author> Em Petrova</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string>Gargi</string>
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Alice's Adventures in Wonderland</Title>
+    <Author>Lewis Carroll</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>The Adventures of Huckleberry Finn</Title>
+    <Author>Mark Twain</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>The Adventures of Tom Sawyer</Title>
+    <Author>Mark Twain</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Treasure Island</Title>
+    <Author>Robert Louis Stevenson</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Moby Dick</Title>
+    <Author>Herman Melville</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Gulliver's Travels</Title>
+    <Author>Jonathan Swift</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>A Christmas Carol</Title>
+    <Author>Charles Dickens</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>A Tale of Two Cities</Title>
+    <Author>Charles Dickens</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Little Women</Title>
+    <Author>Louisa May Alcott</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>The Hobbit, or, There and Back Again</Title>
+    <Author>J.R.R. Tolkien</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+  <Book>
+    <Title>Oliver Twist</Title>
+    <Author>Charles Dickens</Author>
+    <Copies>1</Copies>
+    <CheckoutNameList>
+      <string />
+    </CheckoutNameList>
+  </Book>
+</ArrayOfBook>
